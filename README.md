@@ -1,2 +1,0 @@
-# checkertest.github.io
-Lol
